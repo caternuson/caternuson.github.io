@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: post
+title: First Post
 ---
 
 # Stuff and Things
 
-This is a **test** post.
+This is the **first** post.
+
