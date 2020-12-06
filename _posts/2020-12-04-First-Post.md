@@ -4,7 +4,7 @@ tags: [ python, visa, oscilloscope ]
 layout: post
 ---
 
-# Stuff and Things
+## Stuff and Things
 
 This is the **first** post. Here's a capture from my oscilloscope.
 
@@ -30,3 +30,9 @@ print("Screen saved to", FILE)
 rigol.close()
 ```
 
+## Links to Things
+
+- DS1000Z_Programming Guide_EN.pdf (just google for it)
+- [PyVISA](https://pyvisa.readthedocs.io/en/latest/)
+- [Virtual Instrument Software Architecture](https://en.wikipedia.org/wiki/Virtual_instrument_software_architecture)
+- [Standard Commands for Programmable Instruments](https://en.wikipedia.org/wiki/Standard_Commands_for_Programmable_Instruments)
