@@ -36,7 +36,7 @@ two screws to hold it down.
 ![](/images/led_bulb4.jpg)
 
 The LEDs appear to be connected in series, `D1` to `D8`. The power comes in via
-those two pins that slide through some spring like clamps.
+those two pins that slide through some spring like clamps into `CON3-` and `CON4+`.
 
 
 ## Driver circuit
@@ -50,6 +50,11 @@ Main power comes in from the bottom. The two pins at the top are power
 output to the LEDs. Here's the other side of the circuit board.
 
 ![](/images/led_bulb6.jpg)
+
+Reading the silk on the IC's, the main one is an LED driver chip `BD9916D`.
+The datasheet provides the following circuit.
+
+![](/images/bd9916d_schematic.jpg)
 
 
 ## Post mortem
