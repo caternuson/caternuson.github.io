@@ -1,8 +1,7 @@
 ---
 title: First Post
-author: Author Name
+tags: [ python, visa, oscilloscope ]
 layout: post
-tags: [ something, also this, and this ]
 ---
 
 # Stuff and Things
