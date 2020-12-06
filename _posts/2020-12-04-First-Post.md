@@ -2,7 +2,7 @@
 title: First Post
 author: Author Name
 layout: post
-tags: something, also this, and this
+tags: [ something, also this, and this ]
 ---
 
 # Stuff and Things
