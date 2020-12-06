@@ -1,6 +1,7 @@
 ---
-layout: post
 title: First Post
+author: Author Name
+layout: post
 ---
 
 # Stuff and Things
