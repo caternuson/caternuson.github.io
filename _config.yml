@@ -1,4 +1,4 @@
 title: Things and Stuff
 description: some things, but also some stuff
 author: caternuson
-theme: jekyll-theme-hacker
+remote_theme: caternuson/documentation-theme-jekyll
